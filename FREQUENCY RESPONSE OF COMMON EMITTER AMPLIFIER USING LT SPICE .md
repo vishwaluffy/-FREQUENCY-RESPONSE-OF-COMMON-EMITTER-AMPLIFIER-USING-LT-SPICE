@@ -25,17 +25,18 @@
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
 ## Calculation
-![WhatsApp Image 2025-11-23 at 16 26 58_824e0644](https://github.com/user-attachments/assets/8a672006-3251-4945-94ea-ac2bf04908da)
+![WhatsApp Image 2025-11-27 at 14 47 08_34b0d876](https://github.com/user-attachments/assets/b028b84c-023f-459f-95f6-1ed6c6debb37)
+
 
 
 ## Graph
-![WhatsApp Image 2025-11-23 at 16 28 00_dee2ed13](https://github.com/user-attachments/assets/64772662-36c0-4849-9e52-13833c67565d)
+![WhatsApp Image 2025-11-27 at 14 47 03_5d4c8943](https://github.com/user-attachments/assets/c90edfbe-214d-4e6d-a030-019d6dc1e410)
 
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-![WhatsApp Image 2025-11-23 at 16 28 24_06d4e932](https://github.com/user-attachments/assets/b856e0a7-023c-4e83-80e1-29ada642a9b4)
+![WhatsApp Image 2025-11-27 at 14 47 08_bd8c961d](https://github.com/user-attachments/assets/8ae2e069-7511-4be1-bc97-a3783f51c230)
 
 
 **VOLTAGE GAIN = 32 dB**
